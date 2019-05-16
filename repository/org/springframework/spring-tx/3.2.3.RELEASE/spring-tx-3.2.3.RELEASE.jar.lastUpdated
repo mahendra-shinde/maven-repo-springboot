@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 15 09:23:20 IST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1557892400010
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-tx\:jar\:3.2.3.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: c\:\\maven\\repository\\org\\springframework\\spring-tx\\3.2.3.RELEASE\\aether-5f50b089-efde-4293-83d3-458957309372-spring-tx-3.2.3.RELEASE.jar-in-progress (The system cannot find the file specified)
