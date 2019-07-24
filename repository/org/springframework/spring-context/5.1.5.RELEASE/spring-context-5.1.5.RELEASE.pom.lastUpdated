@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue May 14 09:15:24 IST 2019
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1557805524111
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-context\:pom\:5.1.5.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

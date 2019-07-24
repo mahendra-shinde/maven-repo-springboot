@@ -31,4 +31,10 @@ This repository contains a maven repository for most common spring5 and spring b
 
       ![alt text](images/maven-settings2.png "Maven Settings")  
 
-6.  Start creating Spring Boot projects with Spring Boot version 2.1.4
+6.  Start creating Spring Boot projects with Spring Boot version **2.1.4** or **2.1.6**
+
+
+Changelog:
+-	Updated with Spring boot 2.1.6 and Spring Framework 5.1.8
+-	Seperate settings-ubuntu.xml for my linux machine, uses different path /mnt/windisk/maven/repository
+	Update it with exact location in your linux filesystem.
